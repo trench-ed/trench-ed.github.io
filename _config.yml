@@ -1,7 +1,7 @@
 # Site settings
-title: TrenchED
+title: Trench-ED
 email: lbuckley@uw.edu
-description: Trench-ED Education.
+description: TrEnCh Education.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "trench-ed.github.io" # the base hostname & protocol for your site
 author:
