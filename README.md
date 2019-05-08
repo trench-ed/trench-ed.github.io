@@ -1,5 +1,5 @@
 # Trench-ED Website
-[**Website**](trench-ed.github.io) | [**Theme**](https://html5up.net/) | [**TrEnCh Project**](https://trenchproject.github.io/)
+[**Website**](https://trench-ed.github.io) | [**Theme**](https://html5up.net/) | [**TrEnCh Project**](https://trenchproject.github.io/)
 
 ### Adding a Page
 
