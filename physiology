@@ -8,12 +8,17 @@ title: physiology
 	<p>How does climate affect life on earth? Human beings are pretty special in this regard—we have developed technologies like air-conditioning and heating to change our environments, we can choose clothing to suit the weather, and many of us can easily travel long distances. Most species aren't like us, so the environmental conditions where they live have much more of an impact on their activities and function. The specific details of this impact (which conditions are the most important, and what effect they have) depend on that particular organism's physiology.</p>
 
 <p>One of the most important ideas to understand about how climate affects living things, especially when it comes to ectotherms, is that responses are non-linear—meaning that when we graph them, we don't see a straight line. This is illustrated in the figures below, all of which show body temperature on the x-axis and relative fitness on the y-axis. (More on fitness in the Gradients section, but the basic idea is that high fitness means more offspring, which is good!)</p>
+
+<p>
+<div style="display: flex; justify-content: center;">
 <figure>
-<img class="size-medium" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350654/bin/rstb20120005-g1.jpg" width="465" height="369" align="middle"/> 
+<img class="size-medium" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350654/bin/rstb20120005-g1.jpg" width="465" height="369" imgalign="middle"/> 
 <figcaption>
 Huey et al., 2012
 </figcaption>
 </figure>
+</div>
+</p>
 
 </section>
 
