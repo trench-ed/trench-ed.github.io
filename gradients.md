@@ -14,7 +14,7 @@ image: cropped-web6-1024x256.jpg
 <p>
 <div style="display: flex; justify-content: center;">
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altitudinal_zones_of_Alps_mountains-extended_diagram.svg/1600px-Altitudinal_zones_of_Alps_mountains-extended_diagram.svg.png", width="900"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altitudinal_zones_of_Alps_mountains-extended_diagram.svg/600px-Altitudinal_zones_of_Alps_mountains-extended_diagram.svg.png"/>
   <figcaption>
 Different zones on a mountain are home to different vegetation types. Image: Wikimedia</figcaption>
 </figure>
