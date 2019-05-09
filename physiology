@@ -8,21 +8,23 @@ title: physiology
 	<p>How does climate affect life on earth? Human beings are pretty special in this regard—we have developed technologies like air-conditioning and heating to change our environments, we can choose clothing to suit the weather, and many of us can easily travel long distances. Most species aren't like us, so the environmental conditions where they live have much more of an impact on their activities and function. The specific details of this impact (which conditions are the most important, and what effect they have) depend on that particular organism's physiology.</p>
 
 <p>One of the most important ideas to understand about how climate affects living things, especially when it comes to ectotherms, is that responses are non-linear—meaning that when we graph them, we don't see a straight line. This is illustrated in the figures below, all of which show body temperature on the x-axis and relative fitness on the y-axis. (More on fitness in the Gradients section, but the basic idea is that high fitness means more offspring, which is good!)</p>
-
-<img class="size-medium" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350654/bin/rstb20120005-g1.jpg" width="465" height="369" /> Huey et al., 2012
+<figure>
+<img class="size-medium" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350654/bin/rstb20120005-g1.jpg" width="465" height="369" align="middle"/> 
+<figcaption>
+Huey et al., 2012
+</figcaption>
+</figure>
 
 </section>
 
 
 
-
-
-
 Each curve shows how a hypothetical ectotherm's fitness changes with its body temperature. Part a) shows that above or below a critical minimum and maximum temperature (<em>CTmin</em> and <em>CTmax</em>), the animal has zero fitness—in other words, if it's too cold or too hot, it can't reproduce at all. Its <em>tolerance range</em> is everything in between. Its <em>performance breadth</em> is the range of temperatures at which it has relatively high fitness, and <em>To</em> is its optimal body temperature—the temperature at which it has maximum possible fitness. Part b) helps to demonstrate why it matters so much that this is a curve. Look at the arrow that shows climate warming. If an individual is currently at point A, a few degrees of warming will increase its fitness. But for an individual currently at point B, any warming will be detrimental—it will tip it over the peak of the curve and lower fitness. Parts c) and d) show why climate change may have a bigger impact on "thermal specialists" (organisms with a narrow range of temperature tolerance) than "thermal generalists"; the same amount of change in body temperature results in much bigger changes in fitness in figure c) than figure d).
+
 <h3>### Move, Acclimate, Adapt, or Die</h3>
 In the face of climate change, there are four basic ways living things can respond. First, if conditions where an organism lives are no longer suitable, it might move to where the climate is more favorable—a phenomenon known as a range shift. The figures below, for example, illustrate bird species whose distribution ranges are shifting uphill into cooler mountaintops or northward into cooler latitudes. (Species can also “move” in time rather than space, shifting the timing of when certain important life events take place. The <a href="https://huckley.shinyapps.io/grasshoppers/">grasshopper</a> case study on this website illustrates this kind of phenological shift.)
 
-<img src="https://e360.yale.edu/assets/site/_1500x1500_fit_center-center_80/EscalatorToExctinction_Jillian_Ditner_media_web.jpg" alt="" width="900" height="700" /> Freeman et al., PNAS 2018[/caption]
+<img src="https://e360.yale.edu/assets/site/_1500x1500_fit_center-center_80/EscalatorToExctinction_Jillian_Ditner_media_web.jpg" alt="" width="900" height="600" /> Freeman et al., PNAS 2018[/caption]
 
 [caption id="" align="alignnone" width="600"]<img src="https://www.borealbirds.org/sites/default/files/Cape-May-Warbler-Range-Shift-web.jpg" alt="" width="600" height="405" /> Diana Stralberg, Boreal Forest Initiative, 2018[/caption]
 
