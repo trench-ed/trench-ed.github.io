@@ -1,6 +1,6 @@
 ---
 title: history
-image: butterflies in drawer.png
+image: butterfliesindrawer.jpg
 ---
 
 <h3 class="major">Looking to the past for answers</h3>
