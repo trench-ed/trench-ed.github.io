@@ -1,5 +1,5 @@
 ---
-title: Climate and Physiology
+title: climate and physiology
 ---
 
 <section>
