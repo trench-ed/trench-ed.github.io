@@ -9,7 +9,7 @@ title: physiology
 
 <p>One of the most important ideas to understand about how climate affects living things, especially when it comes to ectotherms, is that responses are non-linear—meaning that when we graph them, we don't see a straight line. This is illustrated in the figures below, all of which show body temperature on the x-axis and relative fitness on the y-axis. (More on fitness in the Gradients section, but the basic idea is that high fitness means more offspring, which is good!)</p>
 
-[caption id="" align="aligncenter" width="465"]<img class="size-medium" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350654/bin/rstb20120005-g1.jpg" width="465" height="369" /> Huey et al., 2012[/caption]
+<img class="size-medium" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350654/bin/rstb20120005-g1.jpg" width="465" height="369" /> Huey et al., 2012
 
 </section>
 
@@ -22,7 +22,7 @@ Each curve shows how a hypothetical ectotherm's fitness changes with its body te
 <h3>### Move, Acclimate, Adapt, or Die</h3>
 In the face of climate change, there are four basic ways living things can respond. First, if conditions where an organism lives are no longer suitable, it might move to where the climate is more favorable—a phenomenon known as a range shift. The figures below, for example, illustrate bird species whose distribution ranges are shifting uphill into cooler mountaintops or northward into cooler latitudes. (Species can also “move” in time rather than space, shifting the timing of when certain important life events take place. The <a href="https://huckley.shinyapps.io/grasshoppers/">grasshopper</a> case study on this website illustrates this kind of phenological shift.)
 
-[caption id="" align="alignnone" width="1500"]<img src="https://e360.yale.edu/assets/site/_1500x1500_fit_center-center_80/EscalatorToExctinction_Jillian_Ditner_media_web.jpg" alt="" width="1500" height="901" /> Freeman et al., PNAS 2018[/caption]
+<img src="https://e360.yale.edu/assets/site/_1500x1500_fit_center-center_80/EscalatorToExctinction_Jillian_Ditner_media_web.jpg" alt="" width="900" height="700" /> Freeman et al., PNAS 2018[/caption]
 
 [caption id="" align="alignnone" width="600"]<img src="https://www.borealbirds.org/sites/default/files/Cape-May-Warbler-Range-Shift-web.jpg" alt="" width="600" height="405" /> Diana Stralberg, Boreal Forest Initiative, 2018[/caption]
 
