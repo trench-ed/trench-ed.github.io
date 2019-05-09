@@ -1,5 +1,5 @@
 ---
-title: contact
+title: Climate and Physiology
 ---
 
 <form action="https://formspree.io/{{ site.email }}" method="POST">
