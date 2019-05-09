@@ -1,5 +1,5 @@
 ---
-title: history
+title: Historical Data
 image: butterfliesindrawer.jpg
 ---
 
