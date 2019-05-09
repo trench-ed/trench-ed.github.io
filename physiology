@@ -24,7 +24,10 @@ Each curve shows how a hypothetical ectotherm's fitness changes with its body te
 <h3>### Move, Acclimate, Adapt, or Die</h3>
 In the face of climate change, there are four basic ways living things can respond. First, if conditions where an organism lives are no longer suitable, it might move to where the climate is more favorable—a phenomenon known as a range shift. The figures below, for example, illustrate bird species whose distribution ranges are shifting uphill into cooler mountaintops or northward into cooler latitudes. (Species can also “move” in time rather than space, shifting the timing of when certain important life events take place. The <a href="https://huckley.shinyapps.io/grasshoppers/">grasshopper</a> case study on this website illustrates this kind of phenological shift.)
 
-<img src="https://e360.yale.edu/assets/site/_1500x1500_fit_center-center_80/EscalatorToExctinction_Jillian_Ditner_media_web.jpg" alt="" width="900" height="600" /> Freeman et al., PNAS 2018[/caption]
+<figure>
+<img src="https://e360.yale.edu/assets/site/_1500x1500_fit_center-center_80/EscalatorToExctinction_Jillian_Ditner_media_web.jpg" alt="" width="900" height="600" align="center" />  <figcaption>
+Freeman et al., PNAS 2018</figcaption>
+</figure>
 
 [caption id="" align="alignnone" width="600"]<img src="https://www.borealbirds.org/sites/default/files/Cape-May-Warbler-Range-Shift-web.jpg" alt="" width="600" height="405" /> Diana Stralberg, Boreal Forest Initiative, 2018[/caption]
 
