@@ -1,5 +1,5 @@
 ---
-title: climate
+title: climate change
 ---
 
 <section>
