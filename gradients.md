@@ -14,7 +14,7 @@ image: cropped-web6-1024x256.jpg
 <p>
 <div style="display: flex; justify-content: center;">
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altitudinal_zones_of_Alps_mountains-extended_diagram.svg/1600px-Altitudinal_zones_of_Alps_mountains-extended_diagram.svg.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Altitudinal_zones_of_Alps_mountains-extended_diagram.svg/1600px-Altitudinal_zones_of_Alps_mountains-extended_diagram.svg.png", width="900">
   <figcaption>
 Different zones on a mountain are home to different vegetation types. Image: Wikimedia</figcaption>
 </figure>
@@ -33,11 +33,18 @@ Different zones on a mountain are home to different vegetation types. Image: Wik
 
 <p>The figure below shows how we can tell the difference between adaptation and plasticity using a reciprocal transplant: an experiment where individuals of the same species from two populations (e.g. cold vs. warm habitats) are collected from the field and then transplanted into the opposite habitat. If the differences between them are due to adaptation, we would expect the transplanted individuals to behave the same as they do in their home location, but if the differences are due to plasticity, we expect to see a shift to the opposite phenotype once they’re transplanted.</p>
 
-<h3>### Coping with climate change</h3>
-The history of gene flow and local adaptation in a given population, as well as its degree of phenotypic plasticity, will all affect its ability to thrive under new conditions. That’s because these forces interact in complex ways to determine how a species living along an environmental gradient will respond to climate change. For example, plasticity can allow individuals to survive under less than optimal conditions, but slow down the process of adaptation to these new conditions.
+<h3 class="major">Coping with climate change</h3>
 
-Researchers led by ecologist Lauren Buckley investigated the impact of behavioral plasticity in a North American lizard species (Yes, behaviors are phenotypic traits!). In this case, what is “plastic” is how these Eastern Fence Lizards behave in response to changes in temperature. Instead of allowing their body temperatures to be dictated by their surroundings, they shuttle between sunny and shady areas all day, keeping their internal body temperatures relatively constant. This strategy is known as behavioral thermoregulation. Thermoregulation is very important for these lizards, because temperature has such a powerful influence on physiological functions like metabolism in ectotherms. But it may ultimately leave them more vulnerable to climate change. Key here is the idea that because behavioral plasticity currently allows most lizards to survive and reproduce under a range of conditions, there isn’t strong selection for lizards whose genes make them more robust against extremely high temperatures. And we know that extreme temperature spikes are going to become much more common in the future. When that happens, these lizards’ reliance on plasticity may ultimately mean they haven’t adapted fast enough.
+<p>The history of gene flow and local adaptation in a given population, as well as its degree of phenotypic plasticity, will all affect its ability to thrive under new conditions. That’s because these forces interact in complex ways to determine how a species living along an environmental gradient will respond to climate change. For example, plasticity can allow individuals to survive under less than optimal conditions, but slow down the process of adaptation to these new conditions.</p>
 
-[caption id="" align="alignnone" width="640"]<img src="https://live.staticflickr.com/4309/36228164446_22de4915e5_c.jpg" alt="" width="640" height="800" /> Eastern Fence Lizard (Sceloporus undulatus), photo by Mary Keim[/caption]
+<p>Researchers led by ecologist Lauren Buckley investigated the impact of behavioral plasticity in a North American lizard species (Yes, behaviors are phenotypic traits!). In this case, what is “plastic” is how these Eastern Fence Lizards behave in response to changes in temperature. Instead of allowing their body temperatures to be dictated by their surroundings, they shuttle between sunny and shady areas all day, keeping their internal body temperatures relatively constant. This strategy is known as behavioral thermoregulation. Thermoregulation is very important for these lizards, because temperature has such a powerful influence on physiological functions like metabolism in ectotherms. But it may ultimately leave them more vulnerable to climate change. Key here is the idea that because behavioral plasticity currently allows most lizards to survive and reproduce under a range of conditions, there isn’t strong selection for lizards whose genes make them more robust against extremely high temperatures. And we know that extreme temperature spikes are going to become much more common in the future. When that happens, these lizards’ reliance on plasticity may ultimately mean they haven’t adapted fast enough.</p>
 
-)
+<p>
+<div style="display: flex; justify-content: center;">
+<figure>
+  <img src="https://live.staticflickr.com/4309/36228164446_22de4915e5_c.jpg" alt="" width="640" height="800" />
+  <figcaption>
+    Eastern Fence Lizard (<em>Sceloporus undulatus</em>), photo by Mary Keim</figcaption>
+</figure>
+</div>
+</p>
