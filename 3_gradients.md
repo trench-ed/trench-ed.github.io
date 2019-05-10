@@ -35,7 +35,7 @@ Different zones on a mountain are home to different vegetation types. Image: Wik
 <p>
 <div style="display: flex; justify-content: center;">
 <figure>
-image: Reciptransplant.jpg
+<img src="trench-ed.github.io/assets/images/Reciptransplant.jpeg"/> 
 <figcaption>
 Hypothetical results from a reciprocal transplant experiment, image: Buckley lab </figcaption>
 </figure>
@@ -52,7 +52,7 @@ Hypothetical results from a reciprocal transplant experiment, image: Buckley lab
 <p>
 <div style="display: flex; justify-content: center;">
 <figure>
-  <img src="https://live.staticflickr.com/4309/36228164446_22de4915e5_c.jpg" alt="" width="640" height="800" />
+  <img src="https://live.staticflickr.com/4309/36228164446_22de4915e5_c.jpg" alt="" height="600" />
   <figcaption>
     Eastern Fence Lizard (<em>Sceloporus undulatus</em>), photo by Mary Keim</figcaption>
 </figure>
