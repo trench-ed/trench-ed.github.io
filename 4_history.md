@@ -15,7 +15,6 @@ image: butterfliesindrawer.jpg
 
 <p align="center">
 <img src="https://www.elsevier.com/__data/assets/image/0020/32366/Figure-1.png" alt="" width="600 />
-<img src="https://www.elsevier.com/__data/assets/image/0020/32366/Figure-1.png" width="600 />
   <figcaption>Relationships between spring temperatures and first-flowering dates, from Ellwood et al. 2013. PLoS ONE doi:10.1371/journal.pone.0053788 </figcaption>
 </figure>
 </div>
