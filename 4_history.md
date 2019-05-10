@@ -13,9 +13,7 @@ image: butterfliesindrawer.jpg
 
 <p>One of the most extraordinary examples of research using historical datasets involves the diaries of the <a href="https://www.elsevier.com/connect/tracking-climate-change-with-the-help-of-henry-david-thoreau">19th-century American environmentalist and writer Henry David Thoreau</a>, who lived in Concord, Massachusetts. Thoreau was passionate about nature, and between 1851 and 1858 he recorded his observations about 300 different species of plants and birds, including the first dates each season on which he saw trees leafing out, flowers blooming, and migratory birds arriving to breed. Biologist Richard Primack saw the opportunity for a resurvey, a repeat study of the same species in the same area to track changes over time. By combining the tables in Thoreau’s diaries with temperature data from a nearby observatory and his own contemporary observations, a team led by Primack determined that spring temperatures in Concord had warmed by an average of 5°C, and over the same period wildflowers had shifted the phenology of their first flowering dates by an average of ten days. Not only does this kind of work allow us to quantify the amount of change that has already taken place, it also provides a (rough) estimate of how things will change in the future. In this case, we can predict that on average, every 1°C of warming will result in the first appearance of flowers Concord occurring an average of two days earlier.<p>
 
-<p>
-<div style="display: flex; justify-content: center;">
-<figure>
+<p align="center">
 <img src="https://www.elsevier.com/__data/assets/image/0020/32366/Figure-1.png" alt="" width="800" height="703" />
   <figcaption>Relationships between spring temperatures and first-flowering dates, from Ellwood et al. 2013. PLoS ONE doi:10.1371/journal.pone.0053788 </figcaption>
 </figure>
