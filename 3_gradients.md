@@ -32,6 +32,16 @@ Different zones on a mountain are home to different vegetation types. Image: Wik
 <p>Differences among populations along a gradient can also be due to plasticity rather than genetic changes. Plasticity refers to organisms with the same genetic makeup displaying different phenotypes depending on the environment in which they live; this name comes from the idea that plastic substances can be molded into many different shapes. Often, the conditions an individual is exposed to as it is maturing (e.g. from an egg to a larva or a larva to an adult) can influence the way its phenotype develops. We call this developmental plasticity. Individuals that are highly plastic can respond well to short-term environmental changes, but these responses cannot then be passed down to their offspring.</p>
 
 <p>The figure below shows how we can tell the difference between adaptation and plasticity using a reciprocal transplant: an experiment where individuals of the same species from two populations (e.g. cold vs. warm habitats) are collected from the field and then transplanted into the opposite habitat. If the differences between them are due to adaptation, we would expect the transplanted individuals to behave the same as they do in their home location, but if the differences are due to plasticity, we expect to see a shift to the opposite phenotype once they’re transplanted.</p>
+<p>
+<div style="display: flex; justify-content: center;">
+<figure>
+image: Reciptransplant.jpg
+<figcaption>
+Hypothetical results from a reciprocal transplant experiment, image: Buckley lab </figcaption>
+</figure>
+</div>
+</p>
+
 
 <h3 class="major">Coping with climate change</h3>
 
