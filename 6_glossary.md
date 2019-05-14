@@ -6,6 +6,7 @@ image: MELSAN.jpg
 <section>
 
 	<ul>
+<<<<<<< HEAD
 <li>Acclimation</li>
 <li>Adaptation</li>
 <li>Allele</li>
@@ -36,5 +37,8 @@ image: MELSAN.jpg
 <li>Thermoregulation</li>
 <li>Trait</li>
 <li>Variability</li>
+=======
+		<li>
+>>>>>>> 9b922d7c5ddcc4d541e4f41df8e8951e27809e08
 		
 
