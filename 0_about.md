@@ -6,7 +6,7 @@ image: MELSAN.jpg
 <section>
 	<h3 class="major">What is TrEnCh-Ed?</h3>
 	
-<p>TrEnCh-Ed is the educational branch of <a href="https://trenchproject.github.io/">The TrEnCh Project</a>, which builds computational and visualization tools to **Tr**anslate **En**vironmental **Ch**ange into organismal responses. We created this website as a tutorial on the science behind those tools for people who are interested in learning about how living things on our planet are responding to climate change. </p>
+<p>TrEnCh-Ed is the educational branch of <a href="https://trenchproject.github.io/">The TrEnCh Project</a>, which builds computational and visualization tools to *Tr*anslate *En*vironmental *Ch*ange into organismal responses. We created this website as a tutorial on the science behind those tools for people who are interested in learning about how living things on our planet are responding to climate change. </p>
 	
 	
 	<h3 class="major">How to use the site</h3>
