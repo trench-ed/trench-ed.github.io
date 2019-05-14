@@ -1,7 +1,7 @@
 # Site settings
 title: Trench–ED
 email: lbuckley@uw.edu
-description: TRanslating ENvironmental CHange into organismal responses.
+description: Educational Resources for TRanslating ENvironmental CHange into organismal responses
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "trench-ed.github.io" # the base hostname & protocol for your site
 author:
@@ -12,7 +12,7 @@ zip_code: 98109
 country: United States of America
 phone: (716) 555-5555
 
-icon: fa-bullhorn # Font Awesome class for your site's icon
+icon: fa-graduation-cap # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
