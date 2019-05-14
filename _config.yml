@@ -1,7 +1,7 @@
 # Site settings
 title: Trench–ED
 email: lbuckley@uw.edu
-description: TrEnCh Education.
+description: TRanslating ENvironmental CHange into organismal responses.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "trench-ed.github.io" # the base hostname & protocol for your site
 author:
