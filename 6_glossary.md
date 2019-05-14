@@ -36,5 +36,4 @@ image: MELSAN.jpg
 <li>Thermoregulation</li>
 <li>Trait</li>
 <li>Variability</li>
-		
-
+		</ul>
