@@ -24,6 +24,6 @@ image: MELSAN.jpg
 
 <h3 class="major">Who we are</h3>
 
-<p>TrEnCh and TrEnCh-Ed are productions of the <a href="http://faculty.washington.edu/lbuckley/">Buckley Lab</a> at the University of Washington, Seattle. Most of the text on this site was written by Meera Lee Sethi, a Ph.D. student in the <a href="https://faculty.washington.edu/jhrl/Index.html">Hille Ris Lambers lab</a> studying climate change and plant-insect interactions. </p>
+<p>TrEnCh and TrEnCh-Ed are productions of the <a href="http://faculty.washington.edu/lbuckley/">Buckley Lab</a> at the University of Washington, Seattle, and are funded by NSF DBI#1349865 (“CAREER: Computational and visualization tools for translating climate change into ecological impacts"). Most of the text on this site was written by Meera Lee Sethi, a Ph.D. student in the <a href="https://faculty.washington.edu/jhrl/Index.html">Hille Ris Lambers lab</a> studying climate change and plant-insect interactions. </p>
 
 
