@@ -2,7 +2,7 @@
 title: glossary
 ---
 
-<li><b>Acclimation<b>: A physiological or behavioral response to a change in the environment that enables an individual to cope with this change (e.g. a plant growing deeper roots (to access moisture deeper in the soil) in response to a drought).</li>
+<li><b>Acclimation</b>: A physiological or behavioral response to a change in the environment that enables an individual to cope with this change (e.g. a plant growing deeper roots (to access moisture deeper in the soil) in response to a drought).</li>
 <li><b>Adaptation</b>: A change in the genetic makeup of a population as a result of natural selection in which a beneficial trait becomes more common (e.g. male birds developing colorful feathers because this increases their success in mating).</li>
 <li><b>Allele</b>: A specific version of a gene.</li>
 <li><b>Climatic Gradient</b>: A directional change in climate (e.g. temperature, precipitation) along a geographic axis (e.g. a fall in temperature with increasing elevation on a mountain, an increase in precipitation with decreasing latitude). </li>
