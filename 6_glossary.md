@@ -1,6 +1,5 @@
 ---
 title: glossary
-image: dictionary.png
 ---
 
 <li><b>Acclimation</b>: A physiological or behavioral response to a change in the environment that enables an individual to cope with this change (e.g. a plant growing deeper roots (to access moisture deeper in the soil) in response to a drought).</li>
