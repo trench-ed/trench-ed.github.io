@@ -18,6 +18,7 @@ image: MELSAN.jpg
 		<li>Understand how climate affects the <a href="https://trench-ed.github.io/#physiology">physiology</a> of living things.</li>
 		<li>Find out why ecologists use elevational and latitudinal <a href="https://trench-ed.github.io/#gradients">gradients</a> and sources of <a href="https://trench-ed.github.io/#Historical-Data">historical data</a> to help predict the biological impacts of climate change.</li>
 				<li>Apply your new knowledge by exploring the <a href="https://trench-ed.github.io/#RShiny-Apps">RShiny apps</a> we built to dive deep into two case studies about climate change and organismal responses. </li>
+<li> Use the glossary as needed to understand technical terms.</li>
 	</ul>
 	</p>
 
