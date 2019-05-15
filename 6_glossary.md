@@ -15,7 +15,7 @@ title: glossary
 <li><b>Fitness</b>: The number of offspring an individual or population produces which go on to successfully breed themselves.</li>
 <li><b>Fitness Constraint</b>: Any factor that limits the fitness of an individual or population (e.g. a limited number of mates; limited food resources; environmental stress). </li>
 <li><b>Gene</b>: A sequence of nucleotides in a fixed location on a chromosome that encodes (contains instructions to make) a protein that performs a particular function. </li>
-<li><b>Gene Flow<b><: The movement of alleles between populations./li>
+<li><b>Gene Flow</b>: The movement of alleles between populations./li>
 <li><b>Genotype</b>: The complete genetic makeup of an individual.</li>
 <li><b>Instar</b>: A phase in the development of an invertebrate.</li>
 <li><b>Local Adaptation</b>: The process by which a population becomes more genetically well-suited to the specific environmental conditions where it is found, as a result of limited gene flow. </li>
