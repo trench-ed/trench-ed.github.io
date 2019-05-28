@@ -1,5 +1,6 @@
 ---
 title: Historical Data
+frontpage: True
 image: butterfliesindrawer.jpg
 ---
 

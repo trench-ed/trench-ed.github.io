@@ -1,5 +1,6 @@
 ---
 title: glossary
+frontpage: True
 ---
 
 <li><b>Acclimation</b>: A physiological or behavioral response to a change in the environment that enables an individual to cope with this change (e.g. a plant growing deeper roots (to access moisture deeper in the soil) in response to a drought).</li>
@@ -31,4 +32,3 @@ title: glossary
 <li><b>Thermal Generalist/Specialist</b>: An organism that is capable of functioning at a wide range of temperatures vs. one that can only function within a narrow temperature window.</li>
 <li><b>Thermoregulation</b>: The process by which an organism maintains its preferred body temperature, either through internal physiological processes or behavioral changes.</li>
 <li><b>Trait</b>: Any characteristic of an organism (e.g. coat color); a functional trait is one that is important in determining an organism's ecology or evolution.</li>
-

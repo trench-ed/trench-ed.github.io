@@ -1,5 +1,6 @@
 ---
 title: gradients
+frontpage: True
 image: cropped-web6-1024x256.jpg
 ---
 
@@ -35,7 +36,7 @@ Different zones on a mountain are home to different vegetation types. Image: Wik
 <p>
 <div style="display: flex; justify-content: center;">
 <figure>
-<img src="trench-ed.github.io/assets/images/Reciptransplant.jpeg"/> 
+<img src="trench-ed.github.io/assets/images/Reciptransplant.jpeg"/>
 <figcaption>
 Hypothetical results from a reciprocal transplant experiment, image: Buckley lab </figcaption>
 </figure>
