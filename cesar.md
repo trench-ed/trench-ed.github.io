@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section>
-	<h3 class="major">Cesar Nufio's Path to Science /h3>
+	<h3 class="major">Cesar Nufio's Path to Science </h3>
 	
 <p>It's a common idea that only a certain type of person becomes a scientist— someone introverted, obsessive, born to wear a lab coat. But the truth is, all sorts of people are drawn to science, and the paths they follow aren't always straight.</p> 
 
