@@ -1,10 +1,12 @@
 ---
 title: physiology
+frontpage: True
+
 ---
 
 <section>
 	<h3 class="major">Temperature and Physiology: All Curves, All The Time</h3>
-  
+
 	<p>How does climate affect life on earth? Human beings are pretty special in this regard—we—have developed technologies like air-conditioning and heating to change our environments, we can choose clothing to suit the weather, and many of us can easily travel long distances. Most species aren't like us, so the environmental conditions where they live have much more of an impact on their activities and function. The specific details of this impact (which conditions are the most important, and what effect they have) depend on that particular organism's physiology.</p>
 
 <p>One of the most important ideas to understand about how climate affects living things, especially when it comes to ectotherms, is that responses are non-linear—meaning that when we graph them, we don't see a straight line. This is illustrated in the figures below, all of which show body temperature on the x-axis and relative fitness on the y-axis. (More on fitness in the Gradients section, but the basic idea is that high fitness means more offspring, which is good!)</p>
@@ -12,7 +14,7 @@ title: physiology
 <p>
 <div style="display: flex; justify-content: center;">
 <figure>
-<img class="size-medium" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350654/bin/rstb20120005-g1.jpg" width="465" height="369" imgalign="middle"/> 
+<img class="size-medium" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350654/bin/rstb20120005-g1.jpg" width="465" height="369" imgalign="middle"/>
 <figcaption>
 Huey et al., 2012
 </figcaption>
@@ -77,7 +79,7 @@ Second, living things might stay where they are and acclimate, which is when ind
 
 <p>
 <div style="display: flex; justify-content: center;">
-<figure><img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/6cdf8170d7575e3d1ac3b3a9e69cae09d5abed0b/4-Figure4-1.png" width="656" height="536" /> 
+<figure><img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/6cdf8170d7575e3d1ac3b3a9e69cae09d5abed0b/4-Figure4-1.png" width="656" height="536" />
 <figcaption>Glenn Tattersall et al., 2012</figcaption>
 </figure>
 </div>

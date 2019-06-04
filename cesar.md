@@ -1,6 +1,7 @@
 ---
 layout: default
-frontpage: True
+title: Cesar
+frontpage: False
 ---
 
 <section>

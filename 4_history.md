@@ -1,6 +1,8 @@
 ---
 title: Historical Data
 image: butterfliesindrawer.jpg
+frontpage: True
+
 ---
 
 <h3 class="major">Looking to the past for answers</h3>
