@@ -6,6 +6,8 @@ frontpage: True
 <li><b>Acclimation</b>: A physiological or behavioral response to a change in the environment that enables an individual to cope with this change (e.g. a plant growing deeper roots (to access moisture deeper in the soil) in response to a drought).</li>
 <li><b>Adaptation</b>: A change in the genetic makeup of a population as a result of natural selection in which a beneficial trait becomes more common (e.g. male birds developing colorful feathers because this increases their success in mating).</li>
 <li><b>Allele</b>: A specific version of a gene.</li>
+<li><b>Amplitude</b>: The degree of difference from an average (e.g. the extent of variability in temperature from the mean)</li>
+<li><b>Biomimetic</b>: Something that mimics or is inspired by a biological process.
 <li><b>Climatic Gradient</b>: A directional change in climate (e.g. temperature, precipitation) along a geographic axis (e.g. a fall in temperature with increasing elevation on a mountain, an increase in precipitation with decreasing latitude). </li>
 <li><b>Critical Thermal Minimum/Maximum</b>: The minimum and maximum temperatures at which an organism can function.</li>
 <li><b>Diapause</b>: A period during which an organism is dormant and development is paused, usually seen in invertebrates.</li>
@@ -15,6 +17,7 @@ frontpage: True
 <li><b>Elevational Transect</b>: A series of sites located along an elevational gradient, at which scientific observations are made.</li>
 <li><b>Fitness</b>: The number of offspring an individual or population produces which go on to successfully breed themselves.</li>
 <li><b>Fitness Constraint</b>: Any factor that limits the fitness of an individual or population (e.g. a limited number of mates; limited food resources; environmental stress). </li>
+<li><b>Frequency</b>: The rate at which something occurs or is repeated. </li>
 <li><b>Gene</b>: A sequence of nucleotides in a fixed location on a chromosome that encodes (contains instructions to make) a protein that performs a particular function. </li>
 <li><b>Gene Flow</b>: The movement of alleles between populations./li>
 <li><b>Genotype</b>: The complete genetic makeup of an individual.</li>
@@ -28,6 +31,7 @@ frontpage: True
 <li><b>Physiology</b>: The physical and chemical functions and activity of living things. </li>
 <li><b>Plasticity</b>: The ability of an individual to change its phenotype in response to the environment without changing its genotype.</li>
 <li><b>Range Shift</b>: A change in the geographic area in which a species of population can be found.</li>
+<Li><b>Sedentary</b>: Of an animal, meaning that it lives in the same place throughout its life. For example, a mussel attached to a rock. </li>
 <li><b>Space-For-Time Substitution</b>: An ecological technique by which sites that are separated in space are used as analogues for sites that are separated in time.</li>
 <li><b>Thermal Generalist/Specialist</b>: An organism that is capable of functioning at a wide range of temperatures vs. one that can only function within a narrow temperature window.</li>
 <li><b>Thermoregulation</b>: The process by which an organism maintains its preferred body temperature, either through internal physiological processes or behavioral changes.</li>
