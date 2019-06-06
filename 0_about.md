@@ -18,7 +18,7 @@ frontpage: True
 		<li>Start with our basic introduction to <a href="https://trench-ed.github.io/#climate-change" target="_blank">climate change</a>.</li>
 		<li>Understand how climate affects the <a href="https://trench-ed.github.io/#physiology" target="_blank">physiology</a> of living things.</li>
 		<li>Find out why ecologists use elevational and latitudinal <a href="https://trench-ed.github.io/#gradients" target="_blank">gradients</a> and sources of <a href="https://trench-ed.github.io/#Historical-Data" target="_blank">historical data</a> to help predict the biological impacts of climate change.</li>
-				<li>Apply your new knowledge by exploring the <a href="https://trench-ed.github.io/#Data-Visualizations" target="_blank">data visualization apps</a> we built to dive deep into two case studies about climate change and organismal responses. </li>
+				<li>Apply your new knowledge by exploring the <a href="https://trench-ed.github.io/#Data-Visualizations" target="_blank">data visualization apps</a> we built to dive deep into four case studies about climate change and organismal responses. </li>
 <li> Use the <a href="https://trench-ed.github.io/#glossary" target="_blank">glossary</a> as needed to understand technical terms.</li>
 	</ul>
 	</p>
