@@ -9,7 +9,7 @@ frontpage: False
 
 <p>It's a common idea that only a certain type of person becomes a scientist— someone introverted, obsessive, born to wear a lab coat. But the truth is, all sorts of people are drawn to science, and the paths they follow aren't always straight.</p>
 
-<p>The grasshoppers and climate change case study you can explore on this website wouldn't exist without Cesar Nufio, for instance. Cesar was a postdoctoral fellow at the University of Colorado's Museum of Natural History when he realized that several dusty boxes, covered in black tarp and half-forgotten at the top of a shelf, would allow him to uncover part of the story of climate change and life on earth over the past 100 years. (Inside the boxes was Gordon Alexander's collection of grasshopper specimens and notebooks—read more about how they were collected back on the data visualization page!)</p>
+<p>The grasshoppers and climate change case study you can explore on this website wouldn't exist without Cesar Nufio, for instance. Cesar was a postdoctoral fellow at the University of Colorado's Museum of Natural History when he <a href="https://www.kunc.org/post/what-13000-dead-grasshoppers-can-tell-us-about-climate-change#stream/0" target="_blank">realized</a> that several dusty boxes, covered in black tarp and half-forgotten at the top of a shelf, would allow him to uncover part of <a href="https://www.vaildaily.com/news/grasshoppers-give-clues-to-global-warming/" target="blank">the story of climate change and life on earth</a> over the past 100 years. (Inside the boxes was Gordon Alexander's collection of grasshopper specimens and notebooks—read more about how they were collected back on the data visualization page!)</p>
 
 <p>
 <div style="display: flex; justify-content: center;">
