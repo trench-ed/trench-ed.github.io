@@ -14,7 +14,7 @@ frontpage: False
 <p>
 <div style="display: flex; justify-content: center;">
 <figure>
-  <img src="https://mediad.publicbroadcasting.net/p/kunc/files/styles/large/public/201408/Grasshopper.jpg" width="600"/>  <figcaption>
+  <img src="https://mediad.publicbroadcasting.net/p/kunc/files/styles/large/public/201408/Grasshopper.jpg" width="800"/>  <figcaption>
 Cesar Nufio holding a grasshopper from the Gordon Alexander collection at the University of Colorado, Boulder. Image: Stephanie Paige Ogburn, KUNC</figcaption>
 </figure>
 </div>
