@@ -36,7 +36,7 @@ In the face of climate change, there are four basic ways living things can respo
 <figcaption>Freeman et al., PNAS 2018</figcaption>
 </figure>
 </div>
-<p>
+</p>
 
 <p>
 <div style="display: flex; justify-content: center;">
@@ -47,7 +47,7 @@ In the face of climate change, there are four basic ways living things can respo
 </div>
 </p>
 
-Second, living things might stay where they are and acclimate, which is when individual organisms become accustomed to new climatic conditions. For example, the American pika (*Ochotona princeps*), a tiny alpine mammal, normally lives exclusively in exposed boulder fields—but as winters in its habitat have warmed, it has changed its behavior. It now seems to be <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.1502" target="_blank">spending more time in coniferous forests and under downed logs</a>—places where it can escape high temperatures. Other animals have the capacity to become more physiologically tolerant of high temperatures after spending some time experiencing them, such as <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2007.0408"><i>Deronectes</i> diving beetles.</a></p>
+Second, living things might stay where they are and acclimate, which is when individual organisms become accustomed to new climatic conditions. For example, the American pika (*Ochotona princeps*), a tiny alpine mammal, normally lives exclusively in exposed boulder fields—but as winters in its habitat have warmed, it has changed its behavior. It now seems to be <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.1502" target="_blank">spending more time in coniferous forests and under downed logs</a>—places where it can escape high temperatures. Other animals have the capacity to become more physiologically tolerant of high temperatures after spending some time experiencing them, such as <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2007.0408"><i>Deronectes</i> diving beetles.</a>
 
 Acclimation is a short-term response to environmental changes that is limited to an individual’s lifetime, while adaptation is a longer-term response that involves changes to the genetic makeup of a population. There may be a tradeoff between non-genetic acclimation (also known as plasticity) and genetic adaptation. In the Pacific Ocean there are many species of porcelain crab (in the genus *Petrolisthes*) that live in different temperature zones, from cold to hot. Unfortunately, the species that have evolved to be the most tolerant to extremely high temperatures also show the <a href="https://science.sciencemag.org/content/301/5629/65.long" target="_blank">least ability to acclimate</a>, and are the most vulnerable to even small changes in temperature.
 
@@ -60,7 +60,8 @@ Acclimation is a short-term response to environmental changes that is limited to
 </div>
 </p>
 
-Another example of adaptation was discovered after an extreme drought that lasted for years in Southern California—likely linked with climate change. Researchers found that in mustard plants <a href="https://www.pnas.org/content/104/4/1278#sec-" target="_blank">evolved to produce seeds earlier in the season</a> so that they now finish their reproductive cycles before the rainy season ends. This is a great example of how multiple responses to climate change can intersect—this mustard species has *adapted* in a way that *moves* the timing of its reproductive events to match a more favorable climate. Similarly, the butterfly case study on this website illustrates *morphological* (physical or structural) changes that are likely the result of both *acclimation* and *adaptation.*</p>
+
+Another example of adaptation was discovered after an extreme drought that lasted for years in Southern California—likely linked with climate change. Researchers found that in mustard plants <a href="https://www.pnas.org/content/104/4/1278#sec-" target="_blank">evolved to produce seeds earlier in the season</a> so that they now finish their reproductive cycles before the rainy season ends. This is a great example of how multiple responses to climate change can intersect—this mustard species has *adapted* in a way that *moves* the timing of its reproductive events to match a more favorable climate. Similarly, the butterfly case study on this website illustrates *morphological* (physical or structural) changes that are likely the result of both *acclimation* and *adaptation.*
 
 Finally, organisms that fail to respond sufficiently to climate change in other ways may die. Entire species may go extinct either locally (in one location) or globally, or they may experience marked decreases in abundance—the size of a population. The Bramble Cay melomys (*Melomys rubicola*), a small rodent that lived on only one island in Australia, is likely one casualty of climate change. While we may never know for sure what resulted in this species <a href="https://news.nationalgeographic.com/2016/06/first-mammal-extinct-climate-change-bramble-cay-melomys/" target="_blank">going extinct</a>, the most probable direct cause is the loss of its habitat, as rising sea levels caused by warming and expanding ocean waters shrank down the available territory on the small island.
 
