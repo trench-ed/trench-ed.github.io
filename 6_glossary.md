@@ -33,7 +33,7 @@ frontpage: True
 * **Physiology**: The physical and chemical functions and activity of living things.
 * **Plasticity**: The ability of an individual to change its phenotype in response to the environment without changing its genotype. See also: "**Acclimation**".
 * **Range Shift**: A change in the geographic area in which a species of population can be found.
-* **Sedentary**: Of an animal, meaning that it lives in the same place throughout its life. For example, a mussel attached to a rock. </li>
+* **Sedentary**: Of an animal, meaning that it lives in the same place throughout its life. For example, a mussel attached to a rock.
 * **Space-For-Time Substitution**: An ecological technique by which sites that are separated in space are used as analogues for sites that are separated in time.
 * **Thermal Generalist/Specialist**: An organism that is capable of functioning at a wide range of temperatures vs. one that can only function within a narrow temperature window.
 * **Thermoregulation**: The process by which an organism maintains its preferred body temperature, either through internal physiological processes or behavioral changes.
