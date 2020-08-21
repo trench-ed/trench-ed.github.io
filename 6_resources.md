@@ -3,15 +3,15 @@ title: resources
 frontpage: True
 ---
 
-### <a href="https://drive.google.com/drive/folders/1wpabwSlGmk5RYyUlNPC19ZOvTH3T2J-O?usp=sharing">Teacher Guides and Worksheets</a>
+### <a href="https://drive.google.com/drive/folders/1wpabwSlGmk5RYyUlNPC19ZOvTH3T2J-O?usp=sharing" target="_blank">Teacher Guides and Worksheets</a>
 
-### <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiRXNROEtCOVoyRm5MU2tzLzdWMXJIUk52YnV6N0lkNjNRNjVVY1N6c1JteElMSURqbVJMUE1oR2ZCbmFYcnZlNmM5dHMzZmxwdmtKVUMyNWlubGZQajN5S096ejl3NnhvQnM1bjVEeCtFQy9jTWxLWjI1MGpjU0t1cU4rU0NBWnI4c0dtL2c9PSIsImkiOiJkY1phZVIwb3E1bjZROFNPIn0=">Answer Keys</a>
+### <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiRXNROEtCOVoyRm5MU2tzLzdWMXJIUk52YnV6N0lkNjNRNjVVY1N6c1JteElMSURqbVJMUE1oR2ZCbmFYcnZlNmM5dHMzZmxwdmtKVUMyNWlubGZQajN5S096ejl3NnhvQnM1bjVEeCtFQy9jTWxLWjI1MGpjU0t1cU4rU0NBWnI4c0dtL2c9PSIsImkiOiJkY1phZVIwb3E1bjZROFNPIn0=" target="_blank">Answer Keys</a>
 
 -----
 
 ### Glossary
 
-<a href="https://quizlet.com/_8lewtg?x=1jqt&i=2zu0qr">Quizlet study set</a>
+<a href="https://quizlet.com/_8lewtg?x=1jqt&i=2zu0qr" target="_blank">Quizlet study set</a>
 
 * **Acclimation**: An individual level (generally non-genetic) physiological or behavioral response to a change in the environment that enables the individual to cope with this change (e.g. a plant growing deeper roots (to access moisture deeper in the soil) in response to a drought). See also: "**Plasticity**".
 * **Adaptation**: A change in the genetic makeup of a population as a result of natural selection in which a beneficial trait becomes more common (e.g. male birds developing colorful feathers because this increases their success in mating).
