@@ -3,9 +3,10 @@ title: scientist profiles
 frontpage: False
 ---
 
-### The stories of the people behind the science
+### The stories of the people behind the science ###
 
 <img align="right" width="40%" src="/assets/images/Buckley.png">      
+
 **Lauren Buckley** 
 * *Introduction:* I’m a biology professor at the University of Washington. I started out studying engineering but found that I was more interested in how animals respond to their environment than in how metals bend under force (which was what my engineering courses entailed at the time. But engineering, for example developing alternative energy technologies, is an awesome way to help address climate change). My parents convinced me that continuing to study math would help me as a biologist and they were right! My research combines mathematical models with laboratory and field observations to improve predictions of how animals respond ecologically and evolve in response to climate change. I love exploring Colorado mountains, repeating historic studies to see how insects have responded to climate change.      
 * *Favorite part of science:* My favorite is making discoveries about how organisms are responding to climate change. Every time I make a new plot of data it’s a potentially interesting new discovery. The visualizations on this website aim to enable you to participate in the discovery process.     
@@ -14,7 +15,8 @@ frontpage: False
 * *Favorite hobby/activity:* My two young kids are working on their insect catching skills to help in the field. Their often challenging questions about how things work remind me of the joy of science.    
     
    
-<img align="right" width="40%" src="/assets/images/Sethi.jpg">     
+<img align="right" width="40%" src="/assets/images/Sethi.jpg">
+
 **Meera Lee Sethi**  
 * *Introduction:* Hi, I'm Meera. I'm a 41-year-old Indian-Chinese woman from Singapore who's lived in different parts of the U.S. for over 20 years. Currently, I'm finishing up my Ph.D at the University of Washington. I'm an ecologist, and am fascinated by the relationships living things have with each other and how they shape communities of plants and animals. I live with my partner (a computer vision researcher), our wonderful and ridiculous cat, three Madagascar Hissing Cockroaches, and three Giant American Millipedes (which are not that gigantic).      
 * *Favorite part of science:* My favorite part of science is that it's much more important to ask good questions than it is to know lots of answers.      
