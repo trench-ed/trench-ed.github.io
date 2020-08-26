@@ -1,4 +1,5 @@
 ---
+layout: default
 title: scientist profiles
 frontpage: False
 ---
