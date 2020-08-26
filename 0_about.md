@@ -22,7 +22,7 @@ The material on this website is written to be easily accessible to advanced high
 
 TrEnCh and TrEnCh-Ed are productions of the <a href="http://faculty.washington.edu/lbuckley/">Buckley Lab</a> at the University of Washington, Seattle, and are funded by NSF DBI#1349865 (“CAREER: Computational and visualization tools for translating climate change into ecological impacts"). Most of the text on this site was written by Meera Lee Sethi, a Ph.D. student in the <a href="https://faculty.washington.edu/jhrl/Index.html">Hille Ris Lambers lab</a> studying climate change and plant-insect interactions. 
 
-# [Learn more about the scientists who made TrEnCh-Ed possible!](#scientist-profiles)
+#### [Learn more about the scientists who made TrEnCh-Ed possible!](#scientist-profiles)
 
 **Lauren Buckley** is a Professor in the UW Department of Biology. Her research aims to improve forecasts of ecological and evolutionary responses to climate change and focuses on montane butterflies and grasshoppers. She teaches courses in Climate Change Biology and Physiological Ecology and Evolution. She leads the TrEnCh project, which develops computational and visualization tools for *Tr*anslating *En*vironmental *Ch*ange into organismal responses. [Learn more about Lauren in her Scientist Profile](#scientist-profiles)
 
