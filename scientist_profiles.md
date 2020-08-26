@@ -6,6 +6,7 @@ frontpage: False
 
 ### The stories of the people behind the science       
    
+Scientists come from all different backgrounds, experiences, cultures, and communities. In fact, teams thrive with diverse perspectives ([cit](https://hbr.org/2016/11/why-diverse-teams-are-smarter)). Below are interviews with the team of scientists behind TrEnCh-Ed.
    
 **Lauren Buckley**       
 <img align="right" width="40%" src="/assets/images/Buckley.png">       
