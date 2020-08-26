@@ -4,9 +4,9 @@ title: scientist profiles
 frontpage: False
 ---
 
-### The stories of the people behind the science 
-
-
+### The stories of the people behind the science       
+   
+   
 **Lauren Buckley**       
 <img align="right" width="40%" src="/assets/images/Buckley.png">       
 * *Introduction:* I’m a biology professor at the University of Washington. I started out studying engineering but found that I was more interested in how animals respond to their environment than in how metals bend under force (which was what my engineering courses entailed at the time. But engineering, for example developing alternative energy technologies, is an awesome way to help address climate change). My parents convinced me that continuing to study math would help me as a biologist and they were right! My research combines mathematical models with laboratory and field observations to improve predictions of how animals respond ecologically and evolve in response to climate change. I love exploring Colorado mountains, repeating historic studies to see how insects have responded to climate change.      
