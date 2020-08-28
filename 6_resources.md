@@ -2,10 +2,12 @@
 title: resources
 frontpage: True
 ---
+### <a href="https://drive.google.com/file/d/1P-OzJkg_wltSPH69YIPgveceSWw4bAkQ/view?usp=sharing" target="_blank">Teacher Guide</a>
+This teacher guide will provide you with a better understanding as to how the tools of the TrEnCh-Ed program are organized and how they can be potentially used in your classroom. These tools can be used to teach the Next Generation Science Standards (NGSS) or even the Advanced Placement (AP) Environmental Science course.
 
-### <a href="https://drive.google.com/drive/folders/1wpabwSlGmk5RYyUlNPC19ZOvTH3T2J-O?usp=sharing" target="_blank">Teacher Guides and Worksheets</a>
+### <a href="https://drive.google.com/drive/folders/1-y3DQW5DGSsuJGUquDbcdnn15mr3jMZL?usp=sharing" target="_blank">Worksheets (HS- and College-level)</a>
 
-### <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiRXNROEtCOVoyRm5MU2tzLzdWMXJIUk52YnV6N0lkNjNRNjVVY1N6c1JteElMSURqbVJMUE1oR2ZCbmFYcnZlNmM5dHMzZmxwdmtKVUMyNWlubGZQajN5S096ejl3NnhvQnM1bjVEeCtFQy9jTWxLWjI1MGpjU0t1cU4rU0NBWnI4c0dtL2c9PSIsImkiOiJkY1phZVIwb3E1bjZROFNPIn0=" target="_blank">Answer Keys</a>
+### <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicjNXSWRRQTcwSlJnWUFIL2VBQXV6Vk5TTWpJTVN6MXFiV0E0c1l6VTVEOGQvdmFNZWFpY1YvbGYxc2JMSEp3WkkxQ2hZQ3VHajRicTJuaVY3ejVnU255eHhXRS95RUorbnhjRGxsUjlrbnRSQXhrUU5iNnAzOGtQdzFDcW1taldNWVNyVlE9PSIsImkiOiJyemVxNUd2SlRJN3RZSTZ6In0=" target="_blank">Answer Keys (HS- and College-level)</a>
 
 -----
 
