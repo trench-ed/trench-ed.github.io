@@ -9,6 +9,8 @@ We built these interactive data visualization apps using RShiny to allow you to 
 
 <p><b><a href="https://huckley.shinyapps.io/RShiny_ButterflyAdvanced/" target="_blank">Energy Budgets</a></b>: Using a heat budget model to estimate an organism’s body temperature due to their environment and morphology.</p>
 
+<p><b><a href="https://huckley.shinyapps.io/ClimateBiology/" target="_blank">Robomussels</a></b>: Use data from biomimetic temperature sensors to explore how organisms experience climate.</p>
+
 <p><b><a href="https://huckley.shinyapps.io/butterflies/" target="_blank">Butterfly Museum Specimens</a></b>: Use data from museum specimens to explore how temperature influences morphology and phenology.</p>
 
 <p><b><a href="https://huckley.shinyapps.io/PlantPhenology/" target="_blank">Wildflower Phenology</a></b>: Use historical and resurvey data to explore how temperature influences phenology. </p>
