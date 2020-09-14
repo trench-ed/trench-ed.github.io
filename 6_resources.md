@@ -2,8 +2,11 @@
 title: resources
 frontpage: True
 ---
-### <a href="https://drive.google.com/file/d/1P-OzJkg_wltSPH69YIPgveceSWw4bAkQ/view?usp=sharing" target="_blank">Teacher Guide</a>
-This teacher guide will provide you with a better understanding as to how the tools of the TrEnCh-Ed program are organized and how they can be potentially used in your classroom. These tools can be used to teach the Next Generation Science Standards (NGSS) or even the Advanced Placement (AP) Environmental Science course.
+### <a href="https://drive.google.com/file/d/1P-OzJkg_wltSPH69YIPgveceSWw4bAkQ/view?usp=sharing" target="_blank">Teacher Guide (HS)</a>   
+
+### <a href="https://drive.google.com/file/d/1aArVGZvIAD_Ml2IyqbGB05VevDLL5UUw/view?usp=sharing" target="_blank">Teacher Guide (College)</a>
+
+This teacher guide will provide you with a better understanding as to how the tools of the TrEnCh-Ed program are organized and how they can be potentially used in your classroom. These tools can be used in teaching the high school Next Generation Science Standards (NGSS), the Advanced Placement (AP) Environmental Science course, and introductory climate science and ecology college courses.
 
 ### <a href="https://drive.google.com/drive/folders/1-y3DQW5DGSsuJGUquDbcdnn15mr3jMZL?usp=sharing" target="_blank">Worksheets (HS- and College-level)</a>
 
