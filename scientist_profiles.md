@@ -6,7 +6,9 @@ frontpage: False
 
 <h3>The stories of the people behind the science</h3>       
  
-<p>Scientists come from all different backgrounds, experiences, cultures, and communities. In fact, teams <a href="https://hbr.org/2016/11/why-diverse-teams-are-smarter">thrive</a> with diverse perspectives. Below are profiles of some of the scientists that collected the data for or worked on the TrEnCh-Ed visualizations.</p>
+<p>Scientists come from all different backgrounds, experiences, cultures, and communities. In fact, teams <a href="https://hbr.org/2016/11/why-diverse-teams-are-smarter">thrive</a> with diverse perspectives. Below are profiles of some of the scientists that collected the data for or worked on the TrEnCh-Ed visualizations. Too many undergraduate researchers to list here were essential in collecting the data and conducting the science.
+
+</p>
 
 <p></p>
 <p><strong><a href="https://fish.uw.edu/2020/08/cracking-the-genetic-code-of-washingtons-eelgrass/">Bryan Briones Ortiz</a></strong> worked to build several TrEnCh-Ed visualizations.
