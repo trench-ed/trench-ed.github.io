@@ -8,7 +8,7 @@ frontpage: True
 
 This teacher guide will provide you with a better understanding as to how the tools of the TrEnCh-Ed program are organized and how they can be potentially used in your classroom. These tools can be used in teaching the high school Next Generation Science Standards (NGSS), the Advanced Placement (AP) Environmental Science course, and introductory climate science and ecology college courses. The tools are also designed to align with the AAAS Vision and Change in Undergraduate Biology Education.
 
-The worksheet contain additional background and questions to facilitate inquiry-based learning. Contact us TBD with information about your educational role to access the answer keys.
+The worksheets contain additional background and questions to facilitate inquiry-based learning. We additionally include a <a href="https://drive.google.com/drive/u/2/folders/1Bb6Sx3z5e_M8hapC1BK3G8bhy7pIjxVM">folder</a> with resources for teaching the basics of cliamte science as background for the TrEnCh-Ed activities. Contact us TBD with information about your educational role to access the answer keys.
 
 ### <a href="https://drive.google.com/drive/folders/1-y3DQW5DGSsuJGUquDbcdnn15mr3jMZL?usp=sharing" target="_blank">Worksheets (HS- and College-level)</a>
 
