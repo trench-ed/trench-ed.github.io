@@ -41,7 +41,7 @@ frontpage: False
 <li><i>Favorite hobby/activity:</i> Hiking, or in a country as flat as Denmark I will say walking, is one thing that really provides balance and inspiration to my science. No matter where we are in the world, it is so much fun to get out on a trail and look at the plants and animals. It is so cool to see the similarities and differences between fauna and flora in Europe and the US. Especially when working on spring tails and fruit flies, the ability to get away from a bench and contemplate the natural environment is priceless.</li></ul></p>
 
 <p></p>
-<p><strong><a href="https://www.biointeractive.org/our-team">César Nufio</a></strong> led the science for the Grasshopper Resurvey visualization. We profile him [here](#cesar).
+<p><strong><a href="https://www.biointeractive.org/our-team">César Nufio</a></strong> led the science for the Grasshopper Resurvey visualization. We profile him <a href="https://trench-ed.github.io/#cesar" target="_blank">here</a>.</p>
 
 <p></p>
 <p><strong><a href="https://www.meeraleesethi.com/">Meera Lee Sethi</a></strong> wrote the TrEnCh-Ed text.
