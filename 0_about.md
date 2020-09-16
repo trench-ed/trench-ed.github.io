@@ -33,9 +33,9 @@ The material on this website is written to be easily accessible to advanced high
         
 **<a href="https://sites.google.com/site/ellijtheobald/">Elli Theobald</a>** is an Assistant Teaching Professor in the department of Biology at the University of Washington. Her research focuses on teaching practices that promote equity and inclusion in college classrooms. She teaches the large introductory biology course focused on Evolution and Ecology as well as an upper division course in the biological impacts of climate change. Elli works to align TrEnCh-Ed with teaching standards and best practices and to develop content.
 
-**<a href="https://education.uw.edu/people/faculty/mwind">Mark Windschitl</a>** is a faculty member in the College of Education at the University of Washington. He studies the use of ambitious teaching practices in classrooms and how students learn about complex phenomena.  He is assisting in envisioning the TrEnCh-Ed curriculum and designing workshops to introduce high school teachers to TrEnCh-Ed.
-
 **Nicholas (Nick) Verbanic** is a chemistry and AP Environmental Science teacher at Lake Washington High School in Kirkland, WA. He is a recent graduate of the Master in Instructional Leadership program at the University of Washington where he researched the equitable implementation of Next Generation Science Standards (NGSS) in a high school chemistry professional learning community. He is working with TrEnCh-Ed to help teachers see how climate science is in the Next Generation Science Standards so they can help educate future generations of scientists. He led the development of teacher guides.
+
+**<a href="https://education.uw.edu/people/faculty/mwind">Mark Windschitl</a>** is a faculty member in the College of Education at the University of Washington. He studies the use of ambitious teaching practices in classrooms and how students learn about complex phenomena.  He is assisting in envisioning the TrEnCh-Ed curriculum and designing workshops to introduce high school teachers to TrEnCh-Ed.
 
 **Macy Zwanzig** is a life sciences teacher at Redmond High School. She has been working with TrEnCh-Ed to apply her knowledge of climate science and life sciences as they relate to NGSS and AP Environmental Science standards to develop some useful tools for teachers to take back to their classrooms. 
   
