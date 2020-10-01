@@ -2,23 +2,25 @@
 title: resources
 frontpage: True
 ---
-### <a href="https://drive.google.com/file/d/1P-OzJkg_wltSPH69YIPgveceSWw4bAkQ/view?usp=sharing" target="_blank">Teacher Guide (HS)</a>   
+### [Teacher Guide (HS)](https://drive.google.com/file/d/1P-OzJkg_wltSPH69YIPgveceSWw4bAkQ/view?usp=sharing)
 
-### <a href="https://drive.google.com/file/d/1aArVGZvIAD_Ml2IyqbGB05VevDLL5UUw/view?usp=sharing" target="_blank">Teacher Guide (College)</a>
+### [Teacher Guide (College)](https://drive.google.com/file/d/1aArVGZvIAD_Ml2IyqbGB05VevDLL5UUw/view?usp=sharing)
 
 This teacher guide will provide you with a better understanding as to how the tools of the TrEnCh-Ed program are organized and how they can be potentially used in your classroom. These tools can be used in teaching the high school Next Generation Science Standards (NGSS), the Advanced Placement (AP) Environmental Science course, and introductory climate science and ecology college courses. The tools are also designed to align with the AAAS Vision and Change in Undergraduate Biology Education.
 
-The worksheets contain additional background and questions to facilitate inquiry-based learning. We additionally include a <a href="https://drive.google.com/drive/u/2/folders/1Bb6Sx3z5e_M8hapC1BK3G8bhy7pIjxVM">folder</a> with resources for teaching the basics of climate science as background for the TrEnCh-Ed activities. Contact us TBD with information about your educational role to access the answer keys.
+The worksheets contain additional background and questions to facilitate inquiry-based learning. We additionally include a [folder](https://drive.google.com/drive/u/2/folders/1Bb6Sx3z5e_M8hapC1BK3G8bhy7pIjxVM) with resources for teaching the basics of climate science as background for the TrEnCh-Ed activities. [Fill out this request form](https://forms.gle/RiZNitsLTAccgghT6) with information about your educational role to access the answer keys.
 
-### <a href="https://drive.google.com/drive/folders/1-y3DQW5DGSsuJGUquDbcdnn15mr3jMZL?usp=sharing" target="_blank">Worksheets (HS- and College-level)</a>
+### [Worksheets (HS- and College-level)](https://drive.google.com/drive/folders/1-y3DQW5DGSsuJGUquDbcdnn15mr3jMZL?usp=sharing")
 
-### <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicjNXSWRRQTcwSlJnWUFIL2VBQXV6Vk5TTWpJTVN6MXFiV0E0c1l6VTVEOGQvdmFNZWFpY1YvbGYxc2JMSEp3WkkxQ2hZQ3VHajRicTJuaVY3ejVnU255eHhXRS95RUorbnhjRGxsUjlrbnRSQXhrUU5iNnAzOGtQdzFDcW1taldNWVNyVlE9PSIsImkiOiJyemVxNUd2SlRJN3RZSTZ6In0=" target="_blank">Answer Keys (HS- and College-level)</a>
+### [Answer Keys (HS- and College-level)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicjNXSWRRQTcwSlJnWUFIL2VBQXV6Vk5TTWpJTVN6MXFiV0E0c1l6VTVEOGQvdmFNZWFpY1YvbGYxc2JMSEp3WkkxQ2hZQ3VHajRicTJuaVY3ejVnU255eHhXRS95RUorbnhjRGxsUjlrbnRSQXhrUU5iNnAzOGtQdzFDcW1taldNWVNyVlE9PSIsImkiOiJyemVxNUd2SlRJN3RZSTZ6In0=)
+
+Educators interested in helping us better these resources are encouraged to fill out this [feedback form](https://forms.gle/FsUoBG7fHtDTUdoa6) of TrEnCh-Ed. As well, we have created a [folder to collect any edits](https://drive.google.com/drive/folders/1tslkxfLG4VgAW41Zf3lxdxkE6RpeHzgX?usp=sharing) you make to the materials we provide to help us continue to improve TrEnCh-Ed. 
 
 -----
 
 ### Glossary
 
-<a href="https://quizlet.com/_8lewtg?x=1jqt&i=2zu0qr" target="_blank">Quizlet study set</a>
+[Quizlet study set](https://quizlet.com/_8lewtg?x=1jqt&i=2zu0qr)
 
 * **Acclimation**: An individual level (generally non-genetic) physiological or behavioral response to a change in the environment that enables the individual to cope with this change (e.g. a plant growing deeper roots (to access moisture deeper in the soil) in response to a drought). See also: "**Plasticity**".
 * **Adaptation**: A change in the genetic makeup of a population as a result of natural selection in which a beneficial trait becomes more common (e.g. male birds developing colorful feathers because this increases their success in mating).
