@@ -7,7 +7,7 @@ We built these interactive data visualization apps using RShiny to allow you to 
 
 <p><b><a href="https://map.trenchproject.com/Climate-Change-Metabolism/" target="_blank">Metabolic Impacts of Climate Change</a></b>: Use historic climate data and the temperature dependence of metabolism to compare climate impacts between temperate and tropical regions.</p>
 
-<p><b><a href="https://huckley.shinyapps.io/RShiny_ButterflyAdvanced/" target="_blank">Energy Budgets</a></b>: Using a heat budget model to estimate an organism’s body temperature due to their environment and morphology.</p>
+<p><b><a href="https://huckley.shinyapps.io/RShiny_ButterflyHeatBudget/" target="_blank">Energy Budgets</a></b>: Using a heat budget model to estimate an organism’s body temperature due to their environment and morphology.</p>
 
 <p><b><a href="https://huckley.shinyapps.io/ClimateBiology/" target="_blank">Robomussels</a></b>: Use data from biomimetic temperature sensors to explore how organisms experience climate.</p>
 
