@@ -1,32 +1,5 @@
-# Site settings
-title: Trench-ED
-email: lbuckley@uw.edu
-description: Educational Resources for TRanslating ENvironmental CHange into organismal responses
-baseurl: "" 
-url: "trench-ed.github.io" # the base hostname & protocol for your site
-author:
-street_address: University of Washington
-city: Seattle
-state: WA
-zip_code: 98109
-country: United States of America
-phone: 
-
-icon: fa-graduation-cap # Font Awesome class for your site's icon
-
-# Social settings
-facebook_url:
-github_url: https://github.com/trench-ed/
-gitlab_url: 
-googleplus_url: 
-instagram_url:
-linkedin_url: 
-pinterest_url:
-slack_url:
-twitter_url:
-
-# Build settings
-markdown: kramdown
-
-sass:
-style: compressed
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
