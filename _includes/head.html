@@ -2,19 +2,8 @@
     <title>{{ site.title }}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="icon" type="image/png" href="../../assets/images/logo.png"/>
     <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}" />
+    <link rel="icon" type="image/png" href="../../assets/images/logo.png"/>
     <!--[if lte IE 9]><link rel="stylesheet" href="{{ 'assets/css/ie9.css' | relative_url }}" /><![endif]-->
     <noscript><link rel="stylesheet" href="{{ 'assets/css/noscript.css' | relative_url }}" /></noscript>
-    <script>
-      function toggle(id) {
-        var x = document.getElementById(id);
-        if (x.className.indexOf("w3-show") == -1) {
-          x.className += " w3-show";
-        } else {
-          x.className = x.className.replace(" w3-show", "");
-        }
-      }
-    </script>
 </head>

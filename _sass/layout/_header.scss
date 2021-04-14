@@ -53,7 +53,12 @@
 			line-height: 5.5rem;
 			border: solid _size(border-width) _palette(border);
 			border-radius: 100%;
-			padding-top: 3px;
+
+			.icon {
+				&:before {
+					font-size: 2rem;
+				}
+			}
 		}
 
 		.content {
@@ -113,7 +118,6 @@
 						text-transform: uppercase;
 						letter-spacing: _font(letter-spacing);
 						font-size: 0.8rem;
-						white-space:nowrap;
 						border-bottom: 0;
 
 						&:hover {
@@ -215,7 +219,7 @@
 			}
 		}
 
-		@include breakpoint('<=small') {
+		@include breakpoint('<=xsmall') {
 			padding: 1.5rem 0;
 
 			.content {

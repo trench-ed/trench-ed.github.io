@@ -1,8 +1,8 @@
 # Site settings
-title: Trench–ED
+title: Trench-ED
 email: lbuckley@uw.edu
 description: Educational Resources for TRanslating ENvironmental CHange into organismal responses
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" 
 url: "trench-ed.github.io" # the base hostname & protocol for your site
 author:
 street_address: University of Washington
@@ -10,20 +10,20 @@ city: Seattle
 state: WA
 zip_code: 98109
 country: United States of America
-phone: (716) 555-5555
+phone: 
 
-icon: fa-graduation-cap
+icon: fa-graduation-cap # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
-github_url:
-gitlab_url: https://github.com/trench-ed/
-googleplus_url: ""
+github_url: https://github.com/trench-ed/
+gitlab_url: 
+googleplus_url: 
 instagram_url:
-linkedin_url: ""
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: ""
+twitter_url:
 
 # Build settings
 markdown: kramdown
