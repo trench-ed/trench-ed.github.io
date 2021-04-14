@@ -1,7 +1,6 @@
 ---
 title: TrEnCh-Eduation
 description: Tools to <b>Tr</b>anslate <b>En</b>vironmental <b>Ch</b>ange into organismal responses
-image: 
 frontpage: True
 ---
 
