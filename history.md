@@ -1,9 +1,18 @@
 ---
-title: Historical Data
-image: butterfliesindrawer.jpg
+title: Historical Data 
 frontpage: True
 
 ---
+
+<p>
+<div style="display: flex; justify-content: center;">
+<figure>
+  <img src="assets/images/butterfliesindrawer.jpg"/>
+  <figcaption></figcaption>
+</figure>
+</div>
+</p>
+
 
 ### Looking to the past for answers
 

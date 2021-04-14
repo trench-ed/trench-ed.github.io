@@ -1,9 +1,17 @@
 ---
-title: Gradients
-image: cropped-web6-1024x256.jpg
+title: Gradients 
 frontpage: True
 
 ---
+
+<p>
+<div style="display: flex; justify-content: center;">
+<figure>
+  <img src="assets/images/cropped-web6-1024x256.jpg"/>
+  <figcaption></figcaption>
+</figure>
+</div>
+</p>
 
 ### What is a gradient?
 
