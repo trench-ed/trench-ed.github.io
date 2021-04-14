@@ -1,5 +1,5 @@
 ---
-title: physiology
+title: Physiology
 frontpage: True
 ---
 

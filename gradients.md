@@ -1,5 +1,5 @@
 ---
-title: gradients
+title: Gradients
 image: cropped-web6-1024x256.jpg
 frontpage: True
 

@@ -1,5 +1,5 @@
 ---
-title: climate change
+title: Climate Change
 frontpage: True
 ---
 
