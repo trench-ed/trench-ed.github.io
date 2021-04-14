@@ -1,6 +1,6 @@
 ---
 title: Resources
-description:
+description: Tools to <b>Tr</b>anslate <b>En</b>vironmental <b>Ch</b>ange into organismal responses
 frontpage: True
 ---
 ### [Teacher Guide (HS)](https://drive.google.com/file/d/1P-OzJkg_wltSPH69YIPgveceSWw4bAkQ/view?usp=sharing)

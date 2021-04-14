@@ -30,13 +30,13 @@ The material on this website is written to be easily accessible to advanced high
 * Use the <a href="https://trench-ed.github.io/#resources" target="_blank">glossary</a> as needed to understand technical terms.
 
 ### Meet the Scientists and TrEnCh-Ed team
-**[Learn more about the scientists who collected the data used in the visualizations!](#scientist-profiles)**
+**[Learn more about the scientists who collected the data used in the visualizations!](/scientist-profiles)**
    
 **<a href="https://uwpcc.ocean.washington.edu/person/Miriam_Bertram">Miriam Bertram</a>** is the Assistant Director for the Program on Climate Change at the University of Washington and often works with educators and scientists to collaborate around classroom content development.  She is co-editor of an open access teaching resource “Climate Science for the Classroom” which you can preview <a href="https://uw.pressbooks.pub/climate/">here</a>. Miriam periodically teaches cross-disciplinary undergraduate climate courses and will be facilitating two Current Climate Change Workshops for educators at UW Seattle in 2020. She works with TrEnCh-Ed on climate science content and organizing workshops to introduce high school teachers to TrEnCh-Ed.
     
-**<a href="http://faculty.washington.edu/lbuckley/">Lauren Buckley</a>** is a Professor in the UW Department of Biology who leads the TrEnCh project. Her research aims to improve forecasts of ecological and evolutionary responses to climate change and focuses on montane butterflies and grasshoppers. She teaches courses in Climate Change Biology and Physiological Ecology and Evolution. [Learn more about Lauren in her Scientist Profile](#scientist-profiles)
+**<a href="http://faculty.washington.edu/lbuckley/">Lauren Buckley</a>** is a Professor in the UW Department of Biology who leads the TrEnCh project. Her research aims to improve forecasts of ecological and evolutionary responses to climate change and focuses on montane butterflies and grasshoppers. She teaches courses in Climate Change Biology and Physiological Ecology and Evolution. [Learn more about Lauren in her Scientist Profile](/scientist-profiles)
 
-**<a href="https://www.meeraleesethi.com/">Meera Lee Sethi</a>** is a graduate student in the <a href="https://faculty.washington.edu/jhrl/Index.html">Hille Ris Lambers lab</a> in the UW Department of Biology. She studies climate change and plant-insect interactions. She applied her background in science writing to write the Trench-Ed text. [Learn more about Meera in her Scientist Profile](#scientist-profiles) 
+**<a href="https://www.meeraleesethi.com/">Meera Lee Sethi</a>** is a graduate student in the <a href="https://faculty.washington.edu/jhrl/Index.html">Hille Ris Lambers lab</a> in the UW Department of Biology. She studies climate change and plant-insect interactions. She applied her background in science writing to write the Trench-Ed text. [Learn more about Meera in her Scientist Profile](/scientist-profiles) 
         
 **Abigail Meyer** is a research analyst in the Department of Biology at the University of Washington working on the TrEnCh project. She works at the intersection of computer science and environmental research. She is passionate about climate change, ecology, and education. Abby works on the TrEnCh-Ed content and website.
         
