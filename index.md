@@ -1,9 +1,18 @@
 ---
 title: TrEnCh-Eduation
 description: Tools to <b>Tr</b>anslate <b>En</b>vironmental <b>Ch</b>ange into organismal responses
-image: MELSAN.jpg
+image: 
 frontpage: True
 ---
+
+<p>
+<div style="display: flex; justify-content: center;">
+<figure>
+  <img src="/images/MELSAN.jpg"/>
+  <figcaption></figcaption>
+</figure>
+</div>
+</p>
 
 ### What is TrEnCh-Ed?
 
