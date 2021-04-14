@@ -1,5 +1,6 @@
 ---
 title: Gradients 
+description:
 frontpage: True
 
 ---
@@ -46,7 +47,7 @@ The figure below shows how we can tell the difference between adaptation and pla
 <p>
 <div style="display: flex; justify-content: center;">
 <figure>
-<img src="trench-ed.github.io/assets/images/Reciptransplant.jpeg"/>
+<img src="assets/images/Reciptransplant.jpeg"/>
 <figcaption>
 Hypothetical results from a reciprocal transplant experiment, image: Buckley lab </figcaption>
 </figure>

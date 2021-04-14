@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Scientist Profiles
+description:
 frontpage: False
 ---
 

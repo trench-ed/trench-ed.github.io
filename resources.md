@@ -1,5 +1,6 @@
 ---
 title: Resources
+description:
 frontpage: True
 ---
 ### [Teacher Guide (HS)](https://drive.google.com/file/d/1P-OzJkg_wltSPH69YIPgveceSWw4bAkQ/view?usp=sharing)

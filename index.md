@@ -4,6 +4,12 @@ description: Tools to <b>Tr</b>anslate <b>En</b>vironmental <b>Ch</b>ange into o
 frontpage: True
 ---
 
+### What is TrEnCh-Ed?
+
+TrEnCh-Ed is the educational branch of <a href="https://www.trenchproject.com/" target="_blank">The TrEnCh Project</a>, which builds computational and visualization tools to <b>Tr</b>anslate <b>En</b>vironmental <b>Ch</b>ange into organismal responses. We created this website as a tutorial on the science behind those tools for people who are interested in learning about how living things on our planet are responding to climate change.
+
+TrEnCh and TrEnCh-Ed are productions of the <a href="http://faculty.washington.edu/lbuckley/">Buckley Lab</a> at the University of Washington, Seattle, and are funded by NSF DBI#1349865 (“CAREER: Computational and visualization tools for translating climate change into ecological impacts").
+
 <p>
 <div style="display: flex; justify-content: center;">
 <figure>
@@ -13,15 +19,9 @@ frontpage: True
 </div>
 </p>
 
-### What is TrEnCh-Ed?
-
-TrEnCh-Ed is the educational branch of <a href="https://trenchproject.github.io/" target="_blank">The TrEnCh Project</a>, which builds computational and visualization tools to <b>Tr</b>anslate <b>En</b>vironmental <b>Ch</b>ange into organismal responses. We created this website as a tutorial on the science behind those tools for people who are interested in learning about how living things on our planet are responding to climate change.
-
-TrEnCh and TrEnCh-Ed are productions of the <a href="http://faculty.washington.edu/lbuckley/">Buckley Lab</a> at the University of Washington, Seattle, and are funded by NSF DBI#1349865 (“CAREER: Computational and visualization tools for translating climate change into ecological impacts").
-
 ### How to use the site
 
-The material on this website is written to be easily accessible to advanced high schoolers, beginning undergraduates, and beyond. If you are an educator, we invite you to integrate TrEnCh-Ed into your classroom or homework activities in any way that works for you. Alignments between our content and Next Generation Science Standards is available in the [teacher's guide](#resources). The [resource page](#resources) also included worksheets for high school and undergraduate students. The best way to approach the site is to move from left to right along the tabs on the home page:
+The material on this website is written to be easily accessible to advanced high schoolers, beginning undergraduates, and beyond. If you are an educator, we invite you to integrate TrEnCh-Ed into your classroom or homework activities in any way that works for you. Alignments between our content and Next Generation Science Standards is available in the [teacher's guide](/resources). The [resource page](/resources) also included worksheets for high school and undergraduate students. The best way to approach the site is to move from left to right along the tabs on the home page:
 
 * Start with our basic introduction to <a href="https://trench-ed.github.io/#climate-change" target="_blank">climate change</a>.
 * Understand how climate affects the <a href="https://trench-ed.github.io/#physiology" target="_blank">physiology</a> of living things.
