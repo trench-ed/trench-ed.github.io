@@ -7,7 +7,7 @@ frontpage: True
 <p>
 <div style="display: flex; justify-content: center;">
 <figure>
-  <img src="/images/MELSAN.jpg"/>
+  <img src="assets/images/MELSAN.jpg"/>
   <figcaption></figcaption>
 </figure>
 </div>
