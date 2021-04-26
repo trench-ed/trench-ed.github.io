@@ -38,7 +38,7 @@ The material on this website is written to be easily accessible to advanced high
 
 **<a href="https://www.meeraleesethi.com/">Meera Lee Sethi</a>** is a graduate student in the <a href="https://faculty.washington.edu/jhrl/Index.html">Hille Ris Lambers lab</a> in the UW Department of Biology. She studies climate change and plant-insect interactions. She applied her background in science writing to write the Trench-Ed text. [Learn more about Meera in her Scientist Profile](/scientist_profiles) 
         
-**Abigail Meyer** is a research analyst in the Department of Biology at the University of Washington working on the TrEnCh project. She works at the intersection of computer science and environmental research. She is passionate about climate change, ecology, and education. Abby works on the TrEnCh-Ed content and website.
+**<a href="https://www.avmey.com/"></a>Abigail Meyer</a>** is a research analyst in the Department of Biology at the University of Washington working on the TrEnCh project. She works at the intersection of computer science and environmental research. She is passionate about climate change, ecology, and education. Abby works on the TrEnCh-Ed content and website.
         
 **<a href="https://sites.google.com/site/ellijtheobald/">Elli Theobald</a>** is an Assistant Teaching Professor in the department of Biology at the University of Washington. Her research focuses on teaching practices that promote equity and inclusion in college classrooms. She teaches the large introductory biology course focused on Evolution and Ecology as well as an upper division course in the biological impacts of climate change. Elli works to align TrEnCh-Ed with teaching standards and best practices and to develop content.
 
