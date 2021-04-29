@@ -12,6 +12,6 @@ Trench-ED consists of:
 * worksheets and answer keys for each visualization
 * glossary of terms and teacher resources
 
--
+---
 
 Hosted on Github Sites using the Cayman theme.
