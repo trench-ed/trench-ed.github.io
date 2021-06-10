@@ -1,6 +1,9 @@
 title: TrEnCh-Ed
 show_downloads: true
 logo: /assets/images/logo.png
-google_analytics:
-theme: jekyll-theme-cayman
-logo: assets/images/
+paginate: 8
+markdown: kramdown
+highlighter: rouge
+permalink: /:title
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+author: "Paul Le (theme) and Abigail Meyer (TrEnCh-Ed)"
