@@ -14,8 +14,8 @@ frontpage: False
 
 <p></p>
 <p><strong><a href="https://fish.uw.edu/2020/08/cracking-the-genetic-code-of-washingtons-eelgrass/">Bryan Briones Ortiz</a></strong> worked to build several TrEnCh-Ed visualizations.
-<img align="right" height="300px" src="/assets/images/BrionesOrtiz.jpg"> 
-<img align="right" height="300px" src="/assets/images/BrionesOrtiz1.jpg">
+<img align="right" height="300px" src="/assets/img/BrionesOrtiz.jpg"> 
+<img align="right" height="300px" src="/assets/img/BrionesOrtiz1.jpg">
 <ul>
  <li><i>Introduction:</i> Originally from Ecuador, I arrived in Seattle in 2013 to pursue my bachelor’s degree at the University of Washington. It was during this time that I was initially exposed to research and the natural sciences, ultimately double majoring in Ecology, Evolution, and Conservation Biology; and Aquatic and Fishery Sciences, with a minor in Marine Biology. I participated in multiple ecological projects assimilating various research approaches, including assisting with Dr. Buckley’s study on insect response to climate change, where my research experience in ecology truly commenced; collaborating with a penguin research lab, where I explored my curiosity about conservation; and lastly developing more independent studies on a variety of sea creatures, like nudibranchs, halibut, and ghost shrimp, that made my passion for marine science grow even stronger. I am currently a graduate student in the School of Aquatic and Fishery Sciences at the UW, where I am learning very useful genetics skills to add to my knowledge toolbox. My graduate research aims to link the genetic population structure and genetic basis of key trait variation in Zostera marina, a seagrass species and indispensable ecosystem engineer, to improve coastal conservation efforts in the State of Washington.</li>    
 <li><i>Favorite part of science:</i> My favorite part of science is wowing myself with the findings of the publications that I, like all scientists, am constantly reading. I also enjoy showing and discussing my research, as well learning about other people’s works in interactive events, such as seminars. In general, I am just a fan of science communication and knowledge sharing.</li>     
@@ -24,7 +24,7 @@ frontpage: False
 
 <p></p>
 <p><strong><a href="http://faculty.washington.edu/lbuckley/">Lauren Buckley</a></strong> leads the TrEnCh project and worked on the data collection, modelling, or analysis for the Energy Budgets, Robomussels, Butterfly Museum Specimens, and Grasshopper Resurvey visualizations.
-<img align="right" height="400px" src="/assets/images/Buckley.png">  
+<img align="right" height="400px" src="/assets/img/Buckley.png">  
 <ul>
  <li><i>Introduction:</i> I’m a biology professor at the University of Washington. I started out studying engineering but found that I was more interested in how animals respond to their environment than in how metals bend under force (which was what my engineering courses entailed at the time. But engineering, for example developing alternative energy technologies, is an awesome way to help address climate change). My parents convinced me that continuing to study math would help me as a biologist and they were right! My research combines mathematical models with laboratory and field observations to improve predictions of how animals respond ecologically and evolve in response to climate change. I love exploring Colorado mountains, repeating historic studies to see how insects have responded to climate change.</li>      
 <li><i>Favorite part of science:</i> My favorite is making discoveries about how organisms are responding to climate change. Every time I make a new plot of data it’s a potentially interesting new discovery. The visualizations on this website aim to enable you to participate in the discovery process.</li> 
@@ -34,7 +34,7 @@ frontpage: False
 
 <p></p>
 <p><strong><a href="https://scholar.google.com/citations?user=vMjzVXEAAAAJ&hl=en">Heidi MacLean</a></strong> led the science for the Butterfly Museum Specimens visualization.
-<img align="right" height="300px" src="/assets/images/MacLean.jpg">  
+<img align="right" height="300px" src="/assets/img/MacLean.jpg">  
 <ul>
  <li><i>Introduction:</i> I am an early career scientist with a passion for research and education. I became obsessed with temperature and how it directly and indirectly influences performance in my MSc at the College of William and Mary. It is a theme that ran through my PhD at UNC and my postdocs in Aarhus, Denmark. I met my husband through heated discussions about thermal performance. Now I balance my time between research and our two small children.</li>    
 <li><i>Favorite part of science:</i> My favorite part of science is the opportunity to satisfy curiosities. Unlike other areas of study or jobs I have, science offers the opportunity to both question something about the world around you and figure out a way to get some answers.</li>   
@@ -47,10 +47,10 @@ frontpage: False
 
 <p></p>
 <p><strong><a href="https://www.meeraleesethi.com/">Meera Lee Sethi</a></strong> wrote the TrEnCh-Ed text.
-<img align="right" height="400px" src="/assets/images/Sethi.jpg">  
+<img align="right" height="400px" src="/assets/img/Sethi.jpg">  
 <ul>
  <li><i>Introduction:</i> Hi, I'm Meera. I'm a 41-year-old Indian-Chinese woman from Singapore who's lived in different parts of the U.S. for over 20 years. Currently, I'm finishing up my Ph.D at the University of Washington. I'm an ecologist, and am fascinated by the relationships living things have with each other and how they shape communities of plants and animals. I live with my partner (a computer vision researcher), our wonderful and ridiculous cat, three Madagascar Hissing Cockroaches, and three Giant American Millipedes (which are not that gigantic).</li>    
 <li><i>Favorite part of science:</i> My favorite part of science is that it's much more important to ask good questions than it is to know lots of answers.</li>     
-<li><i>Mentor/Program of importance in your life:</i> I didn't know that I wanted to be a scientist until I was in my mid-30s. Since my undergraduate degree was in the humanities, I didn't have the basic academic background that I needed to apply to graduate programs in the sciences. I would not be where I am today if it weren't for the fact that I was able to take affordable community college classes close to my home.</li> 
+<li><i>Mentor/Program of importance in your life:</i> I didn't know that I wanted to be a scientist until I was in my mid-30s. Since my undergraduate degree was in the humanities, I didn't have the basic academic background that I needed to apply to graduate programs in the sciences. I would not be where I am tosday if it weren't for the fact that I was able to take affordable community college classes close to my home.</li> 
 <li><i>Favorite hobby/activity:</i> So many! Currently, planting and caring for the native plants in my yard is an everyday way to observe some of the myriad interactions between species that inspire my science—in a few minutes I might see bumble bees and wasps pollinating flowers, spiders waiting for prey, or a slug feeding on vegetation.</li></ul></p> 
 <p></p>
