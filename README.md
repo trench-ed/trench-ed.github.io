@@ -1,4 +1,4 @@
-<img src="/assets/images/logo.png" width="200px" height="200px">
+<img src="/assets/img/logo.png" width="200px" height="200px">
 
 [Trench-ED](https://trench-ed.trenchproject.com/) is the education arm of the [Trench Project](https://www.trenchproject.com/), dedicated to thinking beyond air temperature to understand how organisms experience climate change.
 
