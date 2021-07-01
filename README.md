@@ -14,4 +14,4 @@ Trench-ED consists of:
 
 ---
 
-Hosted on Github Sites using the Cayman theme.
+Hosted on Github Sites using the Millennial theme.
