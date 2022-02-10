@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 <img src="/assets/img/logo.png" width="200px" height="200px">
 
 [Trench-ED](https://trench-ed.trenchproject.com/) is the education arm of the [Trench Project](https://www.trenchproject.com/), dedicated to thinking beyond air temperature to understand how organisms experience climate change.
@@ -37,3 +32,5 @@ To create a new RShiny visualization, use this method:
 * Either by cloning this repository or by editing the page through the github website, add your visualization to the list of visualizations on [this](https://github.com/trench-ed/trench-ed.github.io/blob/master/_posts/2020-01-07-RShiny.md) page. By commiting these changes, the website will be updated.
 * Finally, add links to your visualization and your repository to our list of visualizations on this README above.
 * Done :)
+
+Almost all of the data and pagees are hosted on shinyapps.io. For especially large files, we host on AWS. You can find more details on the AWS server [here](https://github.com/trenchproject/R-Docker-Server).
