@@ -4,19 +4,19 @@ description: Tools to <b>Tr</b>anslate <b>En</b>vironmental <b>Ch</b>ange into o
 layout: post
 image: chalkboard.jpg
 ---
-### [Teacher Guide (HS)](https://drive.google.com/file/d/1P-OzJkg_wltSPH69YIPgveceSWw4bAkQ/view?usp=sharing)
+### [Teacher Guide (HS)](https://github.com/trench-ed/TeacherResources/blob/main/Teacher_s%20Guide%20_%20Worksheets/Teacher%20Guide%20HS.docx)
 
-### [Teacher Guide (College)](https://drive.google.com/file/d/1aArVGZvIAD_Ml2IyqbGB05VevDLL5UUw/view?usp=sharing)
+### [Teacher Guide (College)](https://github.com/trench-ed/TeacherResources/blob/main/Teacher_s%20Guide%20_%20Worksheets/Teacher%20Guide%20College.docx)
 
 This teacher guide will provide you with a better understanding as to how the tools of the TrEnCh-Ed program are organized and how they can be potentially used in your classroom. These tools can be used in teaching the high school Next Generation Science Standards (NGSS), the Advanced Placement (AP) Environmental Science course, and introductory climate science and ecology college courses. The tools are also designed to align with the AAAS Vision and Change in Undergraduate Biology Education.
 
 The worksheets contain additional background and questions to facilitate inquiry-based learning. We additionally include a [folder](https://drive.google.com/drive/u/2/folders/1Bb6Sx3z5e_M8hapC1BK3G8bhy7pIjxVM) with resources for teaching the basics of climate science as background for the TrEnCh-Ed activities. [Fill out this request form](https://forms.gle/RiZNitsLTAccgghT6) with information about your educational role to access the answer keys.
 
-### [Worksheets (HS- and College-level)](https://drive.google.com/drive/folders/1-y3DQW5DGSsuJGUquDbcdnn15mr3jMZL?usp=sharing")
+### [Worksheets (HS- and College-level)](https://github.com/trench-ed/TeacherResources/tree/main/Teacher_s%20Guide%20_%20Worksheets)
 
 ### [Answer Keys (HS- and College-level)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicjNXSWRRQTcwSlJnWUFIL2VBQXV6Vk5TTWpJTVN6MXFiV0E0c1l6VTVEOGQvdmFNZWFpY1YvbGYxc2JMSEp3WkkxQ2hZQ3VHajRicTJuaVY3ejVnU255eHhXRS95RUorbnhjRGxsUjlrbnRSQXhrUU5iNnAzOGtQdzFDcW1taldNWVNyVlE9PSIsImkiOiJyemVxNUd2SlRJN3RZSTZ6In0=)
 
-Educators interested in helping us better these resources are encouraged to fill out this [feedback form](https://forms.gle/FsUoBG7fHtDTUdoa6) of TrEnCh-Ed. As well, we have created a [folder to collect any edits](https://drive.google.com/drive/folders/1tslkxfLG4VgAW41Zf3lxdxkE6RpeHzgX?usp=sharing) you make to the materials we provide to help us continue to improve TrEnCh-Ed. 
+Educators interested in helping us better these resources are encouraged to fill out this [feedback form](https://forms.gle/FsUoBG7fHtDTUdoa6) of TrEnCh-Ed. As well, we have created a [folder to collect any edits](https://drive.google.com/drive/folders/1Ms0jGUi_QT9XLA8kd4omknUIyracAJNW?usp=drive_link) you make to the materials we provide to help us continue to improve TrEnCh-Ed. 
 
 -----
 
